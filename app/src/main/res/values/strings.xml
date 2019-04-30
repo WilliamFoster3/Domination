@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Domination</string>
+    <string name="title_activity_titlescreen">titlescreen</string>
+    <string name="title_activity_rules">rules</string>
+</resources>

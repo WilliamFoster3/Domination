@@ -1,0 +1,16 @@
+Step 1: Create UI with all characters
+Step 2: Create Character Object, Upgrade Object, Player Object, and Main class
+Step 3: Create deck in Player Object, this is an arrayList of Characters there may also have to
+be an array list of Upgrades, maybe I can just make it two variables instead
+Step 4: attach attack and defense to each character and player. Make sure UI shows this
+Step 5: create OnClick methods which control character. After clicking they can click an enemy
+character to attack them. I'm unsure of how to do this but it will be figured out
+Step 6: method which calculates attack and defense, also need method which can see if a character is dead
+Step 7: method which ends turns after clicking a button. A new upgrade is created and a new character
+spawns at the beginning of each turn.
+Step 8: Attack 2 of the same character to create a taunt character that combines their stats???
+Step 9 Balance ideas...
+Taunt
+give hero attack?
+adjust attack and defense of characters and heros respectively?
+I don't want hitting face or hitting enemies to be the only strategy.
